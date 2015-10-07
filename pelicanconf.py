@@ -1,12 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 
 THEME = "ydf-cern-theme" # or change to $(pwd)/ydf-cern-theme
 AUTHOR = u'Alexander Baranov'
 SITENAME = u'YDF/CERN'
-SITEURL = 'http://yandexdataschool.github.io/aleph2015/'
+SITEURL = os.environ.get('SITEURL', 'http://yandexdataschool.github.io/aleph2015/')
 
 PATH = 'content'
 
