@@ -7,7 +7,7 @@ import os
 THEME = "ydf-cern-theme" # or change to $(pwd)/ydf-cern-theme
 AUTHOR = u'Alexander Baranov'
 SITENAME = u'YDF/CERN'
-SITEURL = os.environ.get('SITEURL', 'http://yandexdataschool.github.io/aleph2015/')
+SITEURL = ''
 
 PATH = 'content'
 

@@ -1,24 +1,34 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
-
 import os
-import sys
-sys.path.append(os.curdir)
-from pelicanconf import *
 
-SITEURL = ''
-RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+THEME = "ydf-cern-theme" # or change to $(pwd)/ydf-cern-theme
+AUTHOR = u'Alexander Baranov'
+SITENAME = u'YDF/CERN'
+SITEURL = os.environ.get('SITEURL', 'http://yandexdataschool.github.io/aleph2015')
+print "SITEURL: '%s'" % SITEURL
 
-DELETE_OUTPUT_DIRECTORY = True
+PATH = 'content'
 
-# Following items are often useful when publishing
+TIMEZONE = 'Europe/Paris'
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DEFAULT_LANG = u'en'
+
+DISPLAY_PAGES_ON_MENU = True
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+
+STATIC_PATHS = ['images', 'pdfs', 'static']
+
+DEFAULT_PAGINATION = 10
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True

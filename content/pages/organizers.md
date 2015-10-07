@@ -8,8 +8,8 @@ Title: Organizers
 * Pavel Serdyukov (Yandex)
 * Andrey Ustyuzhanin (Yandex)
 
-
 </br>
+
 
 The biographies of the organizers
 ----
