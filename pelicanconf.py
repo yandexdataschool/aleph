@@ -6,7 +6,7 @@ import os
 
 THEME = "ydf-cern-theme" # or change to $(pwd)/ydf-cern-theme
 AUTHOR = u'Alexander Baranov'
-SITENAME = u'YDF/CERN'
+SITENAME = u'ALEPH 2015 workshop'
 SITEURL = ''
 
 PATH = 'content'
