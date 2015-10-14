@@ -6,10 +6,8 @@ We encourage the participants of the ["Flavours of Physics"](https://www.kaggle.
 
 The proposal should be around 500-1000 words. 
 
-It should be submitted via [EasyChair](https://easychair.org/conferences/?conf=aleph2015) by 26th of October. 
+It should be submitted via [EasyChair](https://easychair.org/conferences/?conf=aleph2015) by the 26th of October. 
 
-The notifications of speaker/poster proposal acceptance will be due on 2nd of November. We are aware, that Canadian visa preparation sometimes takes too long, so we will make sure that good submissions get accepted earlier.
+The notifications of speaker/poster proposal acceptance will be due on the 2nd of November.
 
-The best solution supplemented with a speaker/poster proposal will be awarded a special Physics prize, which includes $2000 USD. The award committee consists of physicists of CERN LHCb collaboration: Marc-Olivier Bettler (CERN), Marcin Chrząszcz (Zurich University), Francisco Dettori (CERN), Thomas Blake (Warwick University).
-
-Please, note we are looking forward to see you at our workshop at NIPS even even if you would not get a speaker/poster slot. 
+We are looking forward to see you at the ALEPH workshop at NIPS!
