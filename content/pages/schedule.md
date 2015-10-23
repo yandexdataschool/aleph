@@ -1,7 +1,7 @@
 Title: Schedule
 
 
-
+<h3>11th of December, 2015</h3>
 The tentative schedule of our proposed workshop is as follows. It might be revised depending on the number and quality of accepted papers and whether we have other invited speakers. In particular, we may add one or two contributed talks conditioned on the quality of the submissions, and make the invited talks and related discussions slightly shorter. We also plan to invite a number of participants of our challenge with non-trivial solutions to participate in our poster session.
 
 
