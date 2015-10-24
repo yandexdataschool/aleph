@@ -44,7 +44,9 @@ The tentative schedule of our proposed workshop is as follows. It might be revis
     </tr>
     <tr>
         <td>13:20-14:00</td>
-        <td>Invited talk (Daniel Whiteson)</td>
+        <td><b>Open Machine Learning Problems in High Energy Physics</b>
+        <p>Machine Learning tools have revolutionized data analysis in high-energy physics (HEP). But the problems posed by HEP are unique in many aspects, presenting novel challenges and requiring novel solutions. I will describe recent progress in tackling these open problems and describe current outstanding issues.</p>
+        <div align="right"><i><a href="http://www.faculty.uci.edu/profile.cfm?faculty_id=5436">Daniel Whiteson (UCI, USA)</a></i></td>
     </tr>
     <tr>
         <td>14:00-15:40</td>
@@ -52,7 +54,9 @@ The tentative schedule of our proposed workshop is as follows. It might be revis
     </tr>
     <tr>
         <td>15:40-16:20</td>
-        <td>Invited talk (Jürgen Schmidhuber)</td>
+        <td><b>Deep Learning RNNaissance</b>
+        <p>In recent years, our deep artificial neural networks (including recurrent ones) have won numerous contests in pattern recognition and machine learning. They are now widely used in industry. I will briefly review deep supervised / unsupervised / reinforcement learning, and discuss the latest state of the art results in numerous applications.
+        <div align="right"><i><a href="http://people.idsia.ch/%7Ejuergen/">Jürgen Schmidhuber (IDSIA, Switzerland)</a></i></div></td>
     </tr>
     <tr>
         <td>16:20-17:00</td>
