@@ -4,6 +4,7 @@ cache
 srv.pid
 pelican.pid
 fabfile.py
+activate
 
 
 # Python
